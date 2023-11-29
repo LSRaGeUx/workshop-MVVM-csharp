@@ -11,4 +11,9 @@ public partial class HelloBeautifulUsefulButton : Window
     {
         InitializeComponent();
     }
+
+    public void Button_OnClick(object sender, RoutedEventArgs e)
+    {
+        Console.WriteLine("Je suis un boutton qui click");
+    }
 }
