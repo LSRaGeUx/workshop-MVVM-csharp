@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4TNfyoBFF8bqjBUT5mZFOcFAtFYDNZgeaoLxhevdIBVHy9HonFhVpCLHfHgXzvFrCvAd24/M2NAfxLLl0XgsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yan\\OneDrive\\Bureau\\CESI\\A3\\Dev System\\Projet\\Code\\EasySave\\EasySave\\ProSoft\\EasySave\\EasySave.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\octokit\\5.0.0\\octokit.5.0.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\spectre.console\\0.48.0\\spectre.console.0.48.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\spectre.console.json\\0.46.0\\spectre.console.json.0.46.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
